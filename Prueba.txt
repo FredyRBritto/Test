@@ -1,6 +1,3 @@
 Esto es un comentario de prueba.
-Nuevo Codigo 2.
+"Hola Mundo"
 
-Nombre=Juan
-
-Print(nombre + "soy yo")
